@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Python: モジュール",
+      "type": "python",
+      "request": "launch",
+      "module": "app",
+      "justMyCode": true
+    }
+  ]
+}
